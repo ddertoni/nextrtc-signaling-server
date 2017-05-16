@@ -4,7 +4,7 @@
 
     <groupId>org.nextrtc.signalingserver</groupId>
     <artifactId>nextrtc-signaling-server</artifactId>
-    <version>0.0.7-M1-TECGRAF</version>
+    <version>0.0.7-M2-TECGRAF</version>
     <packaging>jar</packaging>
 
     <name>nextrtc-signaling-server</name>
